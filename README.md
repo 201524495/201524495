@@ -14,6 +14,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201524495@pusan.ac.kr)](mailto:201524495@pusan.ac.kr)  
   [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/An_201524495)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/an_junsu/)
+  <a href="https://solved.ac/annjs0308"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=annjs0308"/></a>
 </div>
 
 
