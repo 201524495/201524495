@@ -19,7 +19,9 @@
 
 ### 📫 Pusan National Univ
 
-### 💻 Hyundai Heavy Industries Co.,Ltd.
+### 💻 Hyundai Heavy Industries Co., Ltd. (HHI)
+
+### 💻 Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)
 
 
 
