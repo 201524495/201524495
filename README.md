@@ -18,8 +18,9 @@
 
 ---
 
-### 👨‍🎓🇰🇷📖 [Pusan National Univ](https://www.pusan.ac.kr/eng/Main.do)
+### 🇰🇷📖 [Pusan National Univ](https://www.pusan.ac.kr/eng/Main.do)
    * Major : [💻CSE](https://cse.pusan.ac.kr/cse/index.do)
+   * Degree : 👨‍🎓Bachelor
 
 ### 👨‍💻🏗 [Hyundai Heavy Industries Co., Ltd. (HHI)](https://english.hhi.co.kr/)
    * Team : 🖥ICT
