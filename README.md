@@ -18,7 +18,7 @@
 
 ---
 
-### [👨‍🎓🇰🇷 Pusan National Univ](https://www.pusan.ac.kr)
+### [👨‍🎓🇰🇷 Pusan National Univ](https://www.pusan.ac.kr/eng/Main.do)
    * Major : CSE
 
 ### 👨‍💻🏗 Hyundai Heavy Industries Co., Ltd. (HHI)
