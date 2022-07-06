@@ -18,7 +18,7 @@
 
 ---
 
-### [![👨‍🎓🇰🇷 Pusan National Univ](www.pusan.ac.kr)]
+### [👨‍🎓🇰🇷 Pusan National Univ](www.pusan.ac.kr)
 
 ### 👨‍💻🏗 Hyundai Heavy Industries Co., Ltd. (HHI)
 
