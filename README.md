@@ -19,11 +19,13 @@
 ---
 
 ### [👨‍🎓🇰🇷 Pusan National Univ](https://www.pusan.ac.kr)
+    Major : CSE
 
 ### 👨‍💻🏗 Hyundai Heavy Industries Co., Ltd. (HHI)
+    ICT
 
 ### 👨‍💻🚢 Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)
-
+    ICT
 
 ---
 
