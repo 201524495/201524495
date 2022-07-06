@@ -18,14 +18,14 @@
 
 ---
 
-### [👨‍🎓🇰🇷 Pusan National Univ](https://www.pusan.ac.kr/eng/Main.do)
-   * Major : CSE
+### 👨‍🎓🇰🇷 [Pusan National Univ](https://www.pusan.ac.kr/eng/Main.do)
+   * Major : [CSE](https://cse.pusan.ac.kr/cse/index.do)
 
-### 👨‍💻🏗 Hyundai Heavy Industries Co., Ltd. (HHI)
-   * Team : ICT
+### 👨‍💻🏗 [Hyundai Heavy Industries Co., Ltd. (HHI)]()
+   * Team : [ICT]()
 
-### 👨‍💻🚢 Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)
-   * Team : ICT
+### 👨‍💻🚢 [Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)]()
+   * Team : [ICT]()
 
 ---
 
