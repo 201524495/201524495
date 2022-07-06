@@ -19,14 +19,14 @@
 ---
 
 ### 🇰🇷📖 [Pusan National Univ](https://www.pusan.ac.kr/eng/Main.do)
-   * Major : [💻CSE](https://cse.pusan.ac.kr/cse/index.do)
-   * Degree : 👨‍🎓Bachelor
+   * Major : [💻 CSE](https://cse.pusan.ac.kr/cse/index.do)
+   * Degree : 👨‍🎓 Bachelor
 
 ### 👨‍💻🏗 [Hyundai Heavy Industries Co., Ltd. (HHI)](https://english.hhi.co.kr/)
-   * Team : 🖥ICT
+   * Team : 🖥 ICT
 
 ### 👨‍💻🚢 [Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)](http://www.ksoe.co.kr/en/)
-   * Team : 🖥ICT
+   * Team : 🖥 ICT
 
 ---
 
