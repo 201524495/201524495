@@ -32,7 +32,7 @@
 </div>
 
 ### 👨‍💻🚢 [Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)](http://www.ksoe.co.kr/en/)
-   * Team : 🖥 ICT
+   * Team : 🖥 Management Information Team
 
 ---
 
