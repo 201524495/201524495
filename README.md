@@ -25,6 +25,7 @@
 
 ### 👨‍💻🏗 [Hyundai Heavy Industries Co., Ltd. (HHI)](https://english.hhi.co.kr/)
    * Team : 🖥 ICT
+   * Part : GroupWare
 
 
 <div align=center> 
