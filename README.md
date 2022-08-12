@@ -11,6 +11,7 @@
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/)](https://www.youtube.com)	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006466352167/)](https://www.facebook.com/profile.php?id=100006466352167)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201524495@pusan.ac.kr)](mailto:201524495@pusan.ac.kr)  
+  [![Skype Badge](https://img.shields.io/badge/Skype-dfffff?style=flat-square&logo=Skype&logoColor=blue&link=mailto:junsu.an@ksoe.ac.kr)](mailto:junsu.an@ksoe.co.kr)
   [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/An_201524495)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/an_junsu/)
   <a href="https://solved.ac/annjs0308"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=annjs0308"/></a>
