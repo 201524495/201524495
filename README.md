@@ -35,7 +35,7 @@
 
 ### 👨‍💻🚢 [Korea Shipbuilding & Offshore Engineering Co., Ltd. (KSOE)](http://www.ksoe.co.kr/en/)
    * Team : 🖥 Management Information Team
-   * Part : GroupWare
+   * Part : ⚙⚙ GroupWare
 
 ---
 
