@@ -47,6 +47,13 @@
 [![An's Trophy stats](https://github-profile-trophy.vercel.app/?username=201524495&column=7&theme=onedark)](https://github.com/201524495/github-profile-trophy)
 
 
+---
+
+## Certification
+
+✨ Engineer Information Processing
+
+✨ Computer Utilization Level 1
 
 
 <!--
