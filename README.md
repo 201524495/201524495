@@ -53,8 +53,17 @@
 
 ✨ Engineer Information Processing
 
+✨ Craftsman Information Processing
+
 ✨ Computer Utilization Level 1
 
+✨ Word Processor User, Level 1
+
+✨ Korean History Level 1
+
+✨
+
+✨
 
 <!--
 **201524495/201524495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
