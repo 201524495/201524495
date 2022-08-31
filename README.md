@@ -24,7 +24,7 @@
    * Degree : 👨‍🎓 Bachelor
 
 ### 👨‍💻🏗 [Hyundai Heavy Industries Co., Ltd. (HHI)](https://english.hhi.co.kr/)
-   * Team : 🖥 ICT
+   * Team : 🖥 Common Support IT Team
    * Part : ⚠️
 
 
