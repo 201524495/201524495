@@ -38,12 +38,10 @@
    * Part : ⚙⚙ GroupWare
 
 ---
-<row>
 
 [![An's github stats](https://github-readme-stats.vercel.app/api?username=201524495&theme=onedark)](https://github.com/201524495/github-readme-stats)
 [![An's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=201524495&theme=onedark&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/201524495/github-readme-stats)
 
-</row>
 ---
 
 [![An's Trophy stats](https://github-profile-trophy.vercel.app/?username=201524495&column=7&theme=onedark)](https://github.com/201524495/github-profile-trophy)
