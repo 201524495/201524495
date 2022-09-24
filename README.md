@@ -61,7 +61,7 @@
 
 ✨ Korean History Level 1
 
-✨
+✨ SQLD ( SQL Developer )
 
 ✨
 
