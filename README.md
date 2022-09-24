@@ -53,6 +53,8 @@
 
 ✨ Engineer Information Processing
 
+✨ SQLD ( SQL Developer )
+
 ✨ Craftsman Information Processing
 
 ✨ Computer Utilization Level 1
@@ -61,9 +63,7 @@
 
 ✨ Korean History Level 1
 
-✨ SQLD ( SQL Developer )
-
-✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <!--
 **201524495/201524495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
