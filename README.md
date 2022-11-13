@@ -55,6 +55,10 @@
 
 ✨ SQLD ( SQL Developer )
 
+✨ SQLP (Predestination)
+
+✨ ADsP (Predestination)
+
 ✨ Craftsman Information Processing
 
 ✨ Computer Utilization Level 1
